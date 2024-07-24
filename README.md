@@ -11,6 +11,10 @@ Invertor Nastran을 활용하여 설계한 모델에 유한 요소 해석을 진
 
 BostonDynamics의 Spot을 보고 4족 보행 로봇을 모델링 하였고, 이를 최종 프로젝트에 사용함.
 
+아래 사진은 모델링의 일부 사진과 이를 활용하여 유한 요소 해석을 진행하는 것으로, Basic_Robot_Design.pdf에 더 자세하게 정리되어 있음.
+
+<img width="391" alt="12" src="https://github.com/user-attachments/assets/98acee8d-17ff-4742-826d-9a88b771896b">
+
 ___
 
 2024년에 4족 보행 로봇에 대하여 더 깊게 공부할 수 있었는데, 2022년의 모델링이 처음부터 잘못되었다는 것을 알았음. 아마 지식의 부족으로 모델링의 한계가 나왔다고 생각함.
