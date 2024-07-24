@@ -13,7 +13,7 @@ BostonDynamics의 Spot을 보고 4족 보행 로봇을 모델링 하였고, 이�
 
 아래 사진은 모델링의 일부 사진과 이를 활용하여 유한 요소 해석을 진행하는 것으로, Basic_Robot_Design.pdf에 더 자세하게 정리되어 있음.
 
-<img width="391" alt="12" src="https://github.com/user-attachments/assets/98acee8d-17ff-4742-826d-9a88b771896b">
+<img width="500" alt="12" src="https://github.com/user-attachments/assets/98acee8d-17ff-4742-826d-9a88b771896b">
 
 ___
 
