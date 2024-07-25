@@ -15,6 +15,7 @@ BostonDynamics의 Spot을 보고 4족 보행 로봇을 모델링 하였고, 이�
 
 <img width="500" alt="12" src="https://github.com/user-attachments/assets/98acee8d-17ff-4742-826d-9a88b771896b">
 
+
 Robot Basic Design 폴더 내부에는 Inventor로 모델링했던 모델들이 들어가 있음. final.ipt가 최종 프로젝트에 사용한 조립품 파일임.
 
 ___
